@@ -1,0 +1,42 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+#link, .dirction, #header{
+    display: inline;
+}
+#link{
+    margin-left: 45%;
+}
+.dirction{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#India{
+    margin-left: 35%;
+
+}
+#bangladesh{
+    margin-left: 35%;
+
+}
+#place{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#food{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
